@@ -1,0 +1,9 @@
+title : Docker Demo
+plan:
+  - title: "Demo"
+    statement: markdowns/01/01.md
+
+projects:
+  webconsole:
+    root: work
+    runner: danbhentschel/techio-docker:1.0
