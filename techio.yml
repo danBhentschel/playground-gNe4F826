@@ -6,4 +6,4 @@ plan:
 projects:
   webconsole:
     root: work
-    runner: danbhentschel/techio-docker:1.0
+    runner: danbhentschel/techio-docker:1.1
