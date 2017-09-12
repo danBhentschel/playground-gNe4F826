@@ -1,3 +1,14 @@
 #!/bin/bash
 
-/scripts/welcome.sh "Lesson 1: Run hello-world" "docker run hello-world" 2>/dev/null
+echo
+echo "*****************************************"
+echo Welcome to Docker Demo
+echo "*****************************************"
+
+echo
+
+echo To get started, type:
+echo
+echo "    docker run hello-world"
+echo
+echo
